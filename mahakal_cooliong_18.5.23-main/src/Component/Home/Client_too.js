@@ -7,7 +7,7 @@ function Client_too() {
       <div className="Client_too">
         <Container>
           <div className="client_title">
-            <h1>Client</h1>
+            <h1>Our Clients</h1>
           </div>
           <Row >
             <Col lg="4" md="4" xl="4" sm="12" className="d-flex justify-content-center" >
